@@ -45,7 +45,7 @@ Complete delivery management for small restaurants and snack bars. The owner cre
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL`
 
-[Demo](https://jhovy.vercel.app/) · [Code](https://github.com/Jhonatan-HenriqueS/Mc-donalds-copia) · Study project, no real customers.
+[Demo](https://jhovy.vercel.app/) · [Code](https://github.com/Jhonatan-HenriqueS/delivery-saas) · Study project, no real customers.
 
 ### 2. HING CRM
 

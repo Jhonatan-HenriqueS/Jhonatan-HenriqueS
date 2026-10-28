@@ -45,7 +45,7 @@ Gestão completa de delivery para pequenos restaurantes e lanchonetes. O dono cr
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL`
 
-[Demo](https://jhovy.vercel.app/) · [Código](https://github.com/Jhonatan-HenriqueS/Mc-donalds-copia) · Projeto de estudo, sem clientes reais.
+[Demo](https://jhovy.vercel.app/) · [Código](https://github.com/Jhonatan-HenriqueS/delivery-saas) · Projeto de estudo, sem clientes reais.
 
 ### 2. HING CRM
 
