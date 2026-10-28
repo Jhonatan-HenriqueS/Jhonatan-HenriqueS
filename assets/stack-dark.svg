@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="84" viewBox="0 0 900 84" role="img" aria-label="Tecnologias: HTML, CSS, React, Next.js, TypeScript, Tailwind CSS, PostgreSQL, Neon, Prisma, Git, GitHub, Vercel, Supabase, Laravel, PHP, Docker, Render, Cloudflare, Claude, ChatGPT, Gemini">
 <style>
-  .row { color: #e6edf3; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; animation: scroll 120s linear infinite; }
+  .row { color: #e6edf3; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; animation: scroll 40s linear infinite; }
   @keyframes scroll { from { transform: translateX(0); } to { transform: translateX(-2631px); } }
   @media (prefers-reduced-motion: reduce) { .row { animation: none; } }
 </style>
